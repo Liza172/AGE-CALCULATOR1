@@ -66,3 +66,37 @@ body,html
     font-weight: 900;
     border-radius: 10px;
 }
+@media screen and (max-width: 750px) {
+
+    .age
+    {
+        font-size: 4vw;
+    }
+    .main p
+    {
+        font-size: 3.5vw;
+    }
+    .main button 
+    {
+        font-size: 2vw;
+    }
+}
+@media screen  and (max-width: 450px){
+    .age
+    {
+        font-size: 5vw;
+    }
+    .main p
+    {
+        font-size: 4.5vw;
+    }
+    .main button 
+    {
+        font-size: 3vw;
+    }
+    .main h2
+    {
+        font-size: 4.5vw;
+    }
+    
+}
